@@ -59,7 +59,7 @@ ul {
     width: 1170px;
     justify-content: space-between;
     margin: 0 auto;
-    padding: 0;
+    padding-left: 0;
 }
 .nav-list {
     display: flex;
@@ -401,6 +401,9 @@ font-style: normal;
     text-align: center;
 }
 
+.padin {
+    margin-right: 10px;
+}
 .logo-footer {
     font-family: var(--secondary-font);
     font-weight: 700;
@@ -444,6 +447,8 @@ font-style: normal;
     justify-content: space-between;
     margin-bottom: 0 auto;
     flex-wrap: wrap;
+    margin-right: 0;
+    padding-inline-start: 0;
 }
 .top-menu {
     display: flex;
