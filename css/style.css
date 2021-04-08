@@ -89,7 +89,7 @@ ul {
 .navigation-link2:focus {
     color: var(--focus-color);
 }
-.navigation-link3 {
+.navigation-link-color {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
@@ -97,7 +97,7 @@ ul {
     color: var(--focus-color);
     text-decoration: none;
 }
-.navigation-link3:hover,
+.navigation-link-color:hover,
 .navigation-link:focus {
     color: var(--focus-color);
 }
