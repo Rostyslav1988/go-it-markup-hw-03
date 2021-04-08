@@ -97,10 +97,12 @@ ul {
     color: var(--focus-color);
     text-decoration: none;
 }
+
 .navigation-link3:hover,
 .navigation-link3:focus {
     color: var(--focus-color);
 }
+
 .port {
     color: var(--focus-color);
 }
